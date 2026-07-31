@@ -7,8 +7,8 @@
 %global crate rayon-core
 
 Name:           rust-%{crate}
-Version:        1.7.0
-Release:        2%{?dist}
+Version:        1.13.0
+Release:        1%{?dist}
 Summary:        Core APIs for Rayon
 
 # Upstream license specification: Apache-2.0/MIT
